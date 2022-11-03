@@ -4,14 +4,14 @@ Challenge 16
 ## Linear Regression to Predict MPG
 
 
- ## Summary Statistics on Suspension Coils
+ ## Review ID table
 
-*Summary Statistics on Suspension Coils* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/020199abd0cc0447e3e21a263e2f40054799a40d/images/Manufactoring_Lot.png) 
+*review id table* ![This is an image](https://github.com/cazaresG/Amazon_Vine_Analysis/blob/903bd7c867289b34f6f51ded8a950024d43dd8dd/review_id_table.jpg) 
 
-## T-Tests on Suspension Coils
+## Customers Table
 
 
-*t-test 1* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/03af95e99af36287bba6bec91b1aff04561b2ac8/images/ttest1.png)
+*customers table* ![This is an image](https://github.com/cazaresG/MechaCar_Statistical_Analysis/blob/03af95e99af36287bba6bec91b1aff04561b2ac8/images/ttest1.png)
 
 In t-test1, we have a test value of 8.71 and a p-value = 1.568e-11 (tending to zero). We reject the null hypothesis and support the alternate hypothesis
 
